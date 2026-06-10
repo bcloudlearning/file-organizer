@@ -1,3 +1,0 @@
-this file is to test how git maintains version
-
-After committing this file and pushing to repo, checking whether adding this line will point to modification
