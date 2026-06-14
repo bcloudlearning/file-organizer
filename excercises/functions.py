@@ -1,7 +1,21 @@
-name = "bharath"
-target = "Cloud AI Architect"
-learn = "python"
+'''
+def greet(name):   # NAME IS A PARAMETER(Place Holder)
+	print(f"Hello {name}")
 
-print(f"My name is {name}")
-print(f"i want to become {target}")
-print(f"i am learning {learn}")
+
+#calling a function
+#random_str = input("Please Enter your name:")
+#greet(random_str)
+
+
+greet("bharath")  # BHARATH IS AN ARGUMENT(Actual Value)
+greet("John")
+
+'''
+## Mutliple Parameters ##
+
+def intro(name, profession):
+	print(f"Hi, my name is {name} and I am a {profession}")
+
+intro("bharath", "Cloud AI Architect")
+

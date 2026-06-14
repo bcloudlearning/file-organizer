@@ -1,0 +1,2 @@
+This is writing into text file
+appending this text into existing file
